@@ -1,4 +1,4 @@
-Driver's Sleep Alarm System Using Python: A Comprehensive Guide
+# Driver's Sleep Alarm System Using Python: A Comprehensive Guide
 Introduction
 
 Drowsy driving is a significant contributor to road accidents worldwide. The National Highway Traffic Safety Administration (NHTSA) in the United States estimates that thousands of crashes, injuries, and fatalities occur each year due to driver fatigue. As driving for extended periods can cause drowsiness, there is a growing need for systems that can detect when a driver is tired and alert them before it’s too late. Python, with its robust ecosystem of libraries and tools, offers an excellent platform to develop a Driver's Sleep Alarm System.
