@@ -69,3 +69,10 @@ Privacy and Ethical Concerns: Monitoring a driver’s behavior raises privacy co
 Conclusion
 
 A Python-based Driver's Sleep Alarm System has the potential to save lives by preventing accidents caused by drowsy driving. By leveraging Python’s extensive libraries for image processing, data analysis, and machine learning, developers can create a robust system that monitors a driver’s alertness in real-time and provides timely alerts when necessary. While challenges remain, the ongoing development of such systems represents a significant step forward in road safety technology.
+
+
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stali.n) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stalinStanlyjohn) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
